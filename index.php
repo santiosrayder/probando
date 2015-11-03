@@ -10,6 +10,7 @@ and open the template in the editor.
         <title>sistemas de informacion</title>
     </head>
     <body>
+        <p>hola jilipollas</p>
         <h1>hola mundo</h1>
         <?php
         // put your code here
